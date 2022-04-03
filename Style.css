@@ -1,0 +1,11 @@
+table {
+    border: 1px solid black;
+    padding: 5px;
+    display:table;
+    width: 300px;
+    font-size: 18pt;
+    
+}
+td, th {
+    border: 1px solid lightgrey;
+}
